@@ -4,7 +4,7 @@ Questo e' un semplice progetto Java chiamato "Fattoria" che include la classe "M
 
 ## Autore
 
-Franncesco Silleti
+Francesco Silletti
 
 
 ## Struttura del Progetto
